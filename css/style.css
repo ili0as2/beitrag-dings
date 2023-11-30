@@ -1,0 +1,9 @@
+.image-container {
+    display: flex;
+  }
+
+  .image-container img {
+    margin: 5px; /* Add some margin between images */
+    width: 100px; /* Set a specific width for the images */
+    height: auto; /* Maintain aspect ratio */
+  }
